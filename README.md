@@ -2,7 +2,7 @@
 <h3 align="center">I am a junior Data Analyst & Engineer</h3>
 
 
-- 🔥 Passionate about data engineering and analysis
+- 🔥 Passionate about Data Engineering and Analysis
 
 - 🐍 Proficient in Python and SQL for data manipulation
 
