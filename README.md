@@ -3,7 +3,7 @@
 
 <p align="right"> 
   <br></br>
-  <img align="right" alt="Coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fi-have-the-data-data-yang-data-yang-facts-yang-research-gif-15723881&psig=AOvVaw1JebnUmWkdddfviymLtA7_&ust=1698798532572000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj70eqDn4IDFQAAAAAdAAAAABAu">
+  <img align="right" alt="Coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fmedia%2FxT9C25UNTwfZuk85WP%2F200.webp&psig=AOvVaw1JebnUmWkdddfviymLtA7_&ust=1698798532572000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj70eqDn4IDFQAAAAAdAAAAABA2">
 </p>
 
 - 🔥 Passionate about data engineering and analysis
