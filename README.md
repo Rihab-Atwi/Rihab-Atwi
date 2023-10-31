@@ -1,10 +1,6 @@
 <h1 align="center">Hey there! 😎 I'm Rihab Atwi</h1>
 <h3 align="center">I am a junior Data Analyst & Engineer</h3>
 
-<p align="right"> 
-  <br></br>
-  <img align="right" alt="Coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fmedia%2FxT9C25UNTwfZuk85WP%2F200.webp&psig=AOvVaw1JebnUmWkdddfviymLtA7_&ust=1698798532572000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj70eqDn4IDFQAAAAAdAAAAABA2">
-</p>
 
 - 🔥 Passionate about data engineering and analysis
 
@@ -21,6 +17,11 @@
 - ⚡ Fun fact: Off the keyboard, I'm a die-hard Barcelona supporter! Just like well-coordinated team play, I appreciate the beauty of tactics on and off the pitch. ⚽💻
 
 - 🚀 Let's connect on LinkedIn and embark on a data-driven journey together! [LinkedIn Profile](https://www.linkedin.com/in/rihab-atwi/)
+
+<p align="right"> 
+  <br></br>
+  <img align="right" alt="Coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fmedia%2FxT9C25UNTwfZuk85WP%2F200.webp&psig=AOvVaw1JebnUmWkdddfviymLtA7_&ust=1698798532572000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj70eqDn4IDFQAAAAAdAAAAABA2">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
