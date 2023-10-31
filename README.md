@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 😎 I am I'm Rihab Atwi</h1>
+<h1 align="center">Hey there! 😎 I'm Rihab Atwi</h1>
 <h3 align="center">I am a junior Data Analyst & Engineer</h3>
 
 - 🔥 Passionate about data engineering and analysis
