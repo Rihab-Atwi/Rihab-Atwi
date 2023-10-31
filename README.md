@@ -20,8 +20,7 @@
 
 <p align="right"> 
   <br></br>
-  <img align="right" alt="Coding" width="300" src="![Uploading image.png…](https://media.tenor.com/kVaqVGLfYZUAAAAC/i-have-the-data-data.gif)
-">
+  <img align="right" alt="Coding" width="300" src="https://media.tenor.com/kVaqVGLfYZUAAAAC/i-have-the-data-data.gif">
 </p>
 
 <h3 align="left">Connect with me:</h3>
