@@ -9,14 +9,13 @@
 
 - 🛠️ Creating cutting-edge ETL solutions for smarter data processes and analysis
 
-- 💡 Eager learner, constantly seeking new knowledge and skills
-
 - 📊 Translating insights using Power BI
 
+- 💡 Eager learner, constantly seeking new knowledge and skills
+  
+- ⚡ Fun fact: Off the keyboard, I'm a die-hard Barcelona supporter! Just like well-coordinated team play, I appreciate the beauty of tactics on and off the pitch. ⚽💻
+
 - 🚀 Let's connect on LinkedIn and embark on a data-driven journey together! [LinkedIn Profile](https://www.linkedin.com/in/rihab-atwi/)
-
-
-- ⚡ Fun fact **Off the keyboard, I'm a die-hard Barcelona supporter! Just like well-coordinated team play, I appreciate the beauty of tactics on and off the pitch. ⚽💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
