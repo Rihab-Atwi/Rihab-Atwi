@@ -20,7 +20,8 @@
 
 <p align="right"> 
   <br></br>
-  <img align="right" alt="Coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fmedia%2FxT9C25UNTwfZuk85WP%2F200.webp&psig=AOvVaw1JebnUmWkdddfviymLtA7_&ust=1698798532572000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj70eqDn4IDFQAAAAAdAAAAABA2">
+  <img align="right" alt="Coding" width="300" src="![Uploading image.png…](https://media.tenor.com/kVaqVGLfYZUAAAAC/i-have-the-data-data.gif)
+">
 </p>
 
 <h3 align="left">Connect with me:</h3>
