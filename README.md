@@ -13,7 +13,8 @@
 
 - 📊 Translating insights using Power BI
 
-- 🚀 Let's connect on LinkedIn and embark on a data-driven journey together! [[LinkedIn] https://www.linkedin.com/in/rihab-atwi/]([LinkedIn] https://www.linkedin.com/in/rihab-atwi/)
+- 🚀 Let's connect on LinkedIn and embark on a data-driven journey together! [LinkedIn Profile](https://www.linkedin.com/in/rihab-atwi/)
+
 
 - ⚡ Fun fact **Off the keyboard, I'm a die-hard Barcelona supporter! Just like well-coordinated team play, I appreciate the beauty of tactics on and off the pitch. ⚽💻**
 
