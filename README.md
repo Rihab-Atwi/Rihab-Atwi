@@ -5,7 +5,7 @@
 
 - 🐍 Proficient in Python and SQL for data manipulation
 
--🤝 Committed to finding innovative solutions for process optimization and data-driven decision-making
+- 🤝 Committed to finding innovative solutions for process optimization and data-driven decision-making
 
 - 🛠️ Creating cutting-edge ETL solutions for smarter data processes and analysis
 
