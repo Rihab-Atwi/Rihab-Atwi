@@ -1,6 +1,11 @@
 <h1 align="center">Hey there! 😎 I'm Rihab Atwi</h1>
 <h3 align="center">I am a junior Data Analyst & Engineer</h3>
 
+<p align="right"> 
+  <br></br>
+  <img align="right" alt="Coding" width="300" src="https://images.app.goo.gl/7wYQAWgmFVDBTGtZ9">
+</p>
+
 - 🔥 Passionate about data engineering and analysis
 
 - 🐍 Proficient in Python and SQL for data manipulation
