@@ -2,17 +2,17 @@
 <h3 align="center">I am a junior Data Analyst & Engineer</h3>
 
 
-- 🔥 Passionate about Data Engineering and Analysis
+- 🔥 Passionate about Data Engineering and Analysis.
 
-- 🐍 Proficient in Python and SQL for data manipulation
+- 🐍 Proficient in Python and SQL for data manipulation.
 
-- 🤝 Committed to finding innovative solutions for process optimization and data-driven decision-making
+- 🤝 Committed to finding innovative solutions for process optimization and data-driven decision-making.
 
-- 🛠️ Creating cutting-edge ETL solutions for smarter data processes and analysis
+- 🛠️ Creating cutting-edge ETL solutions for smarter data processes and analysis.
 
-- 📊 Translating insights using Power BI
+- 📊 Translating insights using Power BI.
 
-- 💡 Eager learner, constantly seeking new knowledge and skills
+- 💡 Eager learner, constantly seeking new knowledge and skills.
   
 - ⚡ Fun fact: Off the keyboard, I'm a die-hard Barcelona supporter! Just like well-coordinated team play, I appreciate the beauty of tactics on and off the pitch. ⚽💻
 
