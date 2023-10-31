@@ -18,7 +18,7 @@
 
 - 🚀 Let's connect on LinkedIn and embark on a data-driven journey together! [LinkedIn Profile](https://www.linkedin.com/in/rihab-atwi/)
 
-  <img align="right" alt="Coding" width="300" src="![Uploading image.png…](https://media.tenor.com/kVaqVGLfYZUAAAAC/i-have-the-data-data.gif)">
+<(img align="right" alt="Coding" width="400" src="https://media.tenor.com/kVaqVGLfYZUAAAAC/i-have-the-data-data.gif")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
